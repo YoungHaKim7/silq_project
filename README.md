@@ -146,3 +146,9 @@ https://thequantuminsider.com/2022/05/27/quantum-computing-tools/
 https://quantumcomputingreport.com/tools/
 
 <br>
+
+# Programming Quantum Computers: Essential Algorithms and Code Samples 1st Edition, Kindle Edition
+
+https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/dp/B07TWTC739/ref=sr_1_5?crid=1EJCPO7C8HDZA&keywords=quantum+computers&qid=1665844313&qu=eyJxc2MiOiI0LjU1IiwicXNhIjoiMy43MSIsInFzcCI6IjMuNDMifQ%3D%3D&s=digital-text&sprefix=quantum+computers%2Cdigital-text%2C249&sr=1-5
+
+<br>
