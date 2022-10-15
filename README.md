@@ -126,4 +126,11 @@ http://xahlee.info/comp/unicode_index.html?q=%E2%84%95
     </td>
     </tr>
 </table>
-# silq_project
+
+<br>
+
+# silq*project_Emacs * unicode-input
+
+https://agda.readthedocs.io/en/latest/tools/emacs-mode.html#unicode-input
+
+<br>
