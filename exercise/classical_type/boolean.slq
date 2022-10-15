@@ -1,0 +1,13 @@
+// The function classicalExample (below) takes two arguments x (a classical Boolean) and f. The latter takes a classical Boolean and returns a classical Boolean. Moreover, f itself is classical, meaning that it is classically known.
+def classicalExample(x:!𝔹, f:!𝔹!→!𝔹) {
+    return f(x); // ^ f is classical
+}
+
+def captureQuantum(x:𝔹) { 
+    captured := Λ(). {  // function `captured` takes no arguments
+        return H(x); // the body of function `captured` applies `H` to `x`
+    };
+    return captured: 𝟙→𝔹;
+    // ^ the returned function is not classical
+
+}
