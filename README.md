@@ -140,3 +140,9 @@ https://agda.readthedocs.io/en/latest/tools/emacs-mode.html#unicode-input
 https://thequantuminsider.com/2022/05/27/quantum-computing-tools/
 
 <br>
+
+# QuantumComputingReport/ Tools
+
+https://quantumcomputingreport.com/tools/
+
+<br>
