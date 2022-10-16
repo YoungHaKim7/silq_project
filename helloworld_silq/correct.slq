@@ -1,0 +1,6 @@
+// example of correct code
+def main() {
+    x:=0:𝔹;
+    x:=H(x);
+    return measure(x);
+}
