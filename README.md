@@ -147,6 +147,16 @@ https://quantumcomputingreport.com/tools/
 
 <br>
 
+<hr>
+
+이 책에 silq 짠 코드가 친절하게 나온게 이거 먼저 구매 강추!!
+
+# Quantum Computing with Silq Programming: Get up and running with quantum computing with the simplicity of this new high-level programming language 1st Edition, Kindle Edition
+
+https://www.amazon.com/dp/B091D34X6K/ref=cm_sw_r_awdo_DY25YGP5GXR5C71QKK6E
+
+<br>
+
 # Programming Quantum Computers: Essential Algorithms and Code Samples 1st Edition, Kindle Edition
 
 https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/dp/B07TWTC739/ref=sr_1_5?crid=1EJCPO7C8HDZA&keywords=quantum+computers&qid=1665844313&qu=eyJxc2MiOiI0LjU1IiwicXNhIjoiMy43MSIsInFzcCI6IjMuNDMifQ%3D%3D&s=digital-text&sprefix=quantum+computers%2Cdigital-text%2C249&sr=1-5
