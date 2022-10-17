@@ -31,7 +31,7 @@ http://xahlee.info/comp/unicode_index.html?q=%E2%84%95
     <tr align="center">
         <td>Symbol</td>
         <td>Unicode(Hex)</td>
-        <td>LaTeX ShorCut</td>
+        <td>LaTeX ShortCut</td>
         <td>Name</td>
     </tr>
     <tr align="center">
