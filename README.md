@@ -147,6 +147,14 @@ https://quantumcomputingreport.com/tools/
 
 <br>
 
+# 빛과 썬글라스로 양자역학 이해하기\_실제test하면서ㅎㅎ❤️Bell's Theorem: The Quantum Venn Diagram Paradox
+
+- Bell's Theorem: The Quantum Venn Diagram Paradox
+
+https://youtu.be/zcqZHYo7ONs
+
+<br>
+
 <hr>
 
 이 책에 silq 짠 코드가 친절하게 나온게 이거 먼저 구매 강추!!
