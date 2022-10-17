@@ -151,7 +151,13 @@ https://quantumcomputingreport.com/tools/
 
 - Bell's Theorem: The Quantum Venn Diagram Paradox
 
-https://youtu.be/zcqZHYo7ONs
+  https://youtu.be/zcqZHYo7ONs
+
+<br>
+
+- 이건 오리지날 영상
+  Some light quantum mechanics (with minutephysics)
+  https://youtu.be/MzRCDLre1b4
 
 <br>
 
