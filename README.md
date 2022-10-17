@@ -157,6 +157,26 @@ https://www.amazon.com/dp/B091D34X6K/ref=cm_sw_r_awdo_DY25YGP5GXR5C71QKK6E
 
 <br>
 
+# Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities 1st Edition, Kindle Edition
+
+https://www.amazon.com/Essential-Mathematics-Quantum-Computing-complexities-ebook/dp/B09TRQPYRS/ref=d_pd_sim_sccl_1_1/143-0855274-0933658?pd_rd_w=cB006&content-id=amzn1.sym.9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_p=9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_r=5M2BMV7J6P49HFMFC7P2&pd_rd_wg=LEpIy&pd_rd_r=8e71abf5-1664-4c8c-a82b-733113ceef0f&pd_rd_i=B09TRQPYRS&psc=1
+
+<table border="1">
+    <tr>
+    <td colspan="2" align="center">Quantum Computing</td>
+    </tr>
+    <tr align="center">
+        <td>Quantum<br>Mechanics</td>
+        <td>Computer<br>Science</td>
+    </tr>
+    <tr>
+    <td colspan="2" align="center">Math</td>
+    </tr>
+</table>
+
+<br>
+<br>
+
 # Programming Quantum Computers: Essential Algorithms and Code Samples 1st Edition, Kindle Edition
 
 https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/dp/B07TWTC739/ref=sr_1_5?crid=1EJCPO7C8HDZA&keywords=quantum+computers&qid=1665844313&qu=eyJxc2MiOiI0LjU1IiwicXNhIjoiMy43MSIsInFzcCI6IjMuNDMifQ%3D%3D&s=digital-text&sprefix=quantum+computers%2Cdigital-text%2C249&sr=1-5
