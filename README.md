@@ -1,3 +1,11 @@
+# 내가 공부하려고 만든 영상
+
+한글양자코딩slq001*양자코딩*윈도우에서 리눅스 가상환경 설치 후 양자코딩준비하기 #quantum #slq #silq
+
+https://youtu.be/klzS-ekfq0s
+
+<br>
+
 # Silq's language
 
 https://silq.ethz.ch/documentation
