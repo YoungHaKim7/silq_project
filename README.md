@@ -1,3 +1,7 @@
+# MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
+
+https://learn.microsoft.com/en-us/azure/quantum/
+
 # 내가 공부하려고 만든 영상
 
 한글양자코딩slq001*양자코딩*윈도우에서 리눅스 가상환경 설치 후 양자코딩준비하기 #quantum #slq #silq
