@@ -12,6 +12,8 @@
 $$i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$$
 ```
 
+https://www.siue.edu/~mnorton/quantum.pdf
+
 ![Screenshot 2023-08-13 at 6 56 22 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8228b29d-09a3-4e75-80c6-4fc7ff12d869)
 
 - 자바스크립트로 구현한 슈뢰딩거 방정식(-方程式, 영어: Schrödinger equation)
