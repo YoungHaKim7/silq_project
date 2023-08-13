@@ -17,6 +17,11 @@
  
     - https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0_%EB%B0%A9%EC%A0%95%EC%8B%9D
 
+```latex
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+```
+
 <hr>
 
 # MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
