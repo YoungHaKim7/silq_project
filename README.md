@@ -17,6 +17,16 @@
  
     - https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0_%EB%B0%A9%EC%A0%95%EC%8B%9D
 
+<hr>
+
+# 마크 다운에 수학 공식 넣는 방법
+
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
+
+# 수학 공식 테스트 하기(live web - latex)
+
+https://www.mathjax.org/
 
 **The Cauchy-Schwarz Inequality**
 
@@ -24,9 +34,6 @@
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
-# 마크 다운에 수학 공식 넣는 방법
-
-https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 <hr>
 
