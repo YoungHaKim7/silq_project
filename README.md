@@ -8,6 +8,7 @@
 - 2분 21초 https://youtu.be/p7bzE1E5PMY
 - 슈뢰딩거 방정식(영어: Schrödinger equation) 그림으로 이해하기
 - 마크다운 수학 공식 정리 https://rayc20.tistory.com/151
+- TeX_및_LaTeX_수식_문법 http://tomoyo.ivyro.net/123/wiki.php/TeX_%EB%B0%8F_LaTeX_%EC%88%98%EC%8B%9D_%EB%AC%B8%EB%B2%95
 - **Schrödinger equation**
 ```math
 $$i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$$
