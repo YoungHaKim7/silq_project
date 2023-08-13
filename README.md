@@ -3,6 +3,12 @@
 - Quantum Programming Part 1(설명 굿👍)
   - https://youtu.be/2Eswqed8agg
 
+# Visualization of Quantum Physics (Quantum Mechanics)
+
+- 2분 21초 https://youtu.be/p7bzE1E5PMY
+
+![Screenshot 2023-08-13 at 6 56 22 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8228b29d-09a3-4e75-80c6-4fc7ff12d869)
+
 <hr>
 
 # MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
