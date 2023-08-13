@@ -13,6 +13,10 @@
 - 자바스크립트로 구현한 슈뢰딩거 방정식(-方程式, 영어: Schrödinger equation)
   - https://github.com/rreusser/schrodinger-equation-1d-demo
 
+  - 슈뢰딩거 방정식(-方程式, 영어: Schrödinger equation) 정의
+ 
+    - https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0_%EB%B0%A9%EC%A0%95%EC%8B%9D
+
 <hr>
 
 # MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
