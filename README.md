@@ -6,8 +6,12 @@
 # Visualization of Quantum Physics (Quantum Mechanics)
 
 - 2분 21초 https://youtu.be/p7bzE1E5PMY
+- 슈뢰딩거 방정식(영어: Schrödinger equation) 그림으로 이해하기
 
 ![Screenshot 2023-08-13 at 6 56 22 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8228b29d-09a3-4e75-80c6-4fc7ff12d869)
+
+- 자바스크립트로 구현한 슈뢰딩거 방정식(-方程式, 영어: Schrödinger equation)
+  - https://github.com/rreusser/schrodinger-equation-1d-demo
 
 <hr>
 
