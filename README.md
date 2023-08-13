@@ -1,3 +1,10 @@
+# Quantum Programming 
+
+- Quantum Programming Part 1(설명 굿👍)
+  - https://youtu.be/2Eswqed8agg
+
+<hr>
+
 # MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
 
 https://learn.microsoft.com/en-us/azure/quantum/
