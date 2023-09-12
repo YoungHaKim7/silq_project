@@ -260,3 +260,23 @@ https://www.amazon.com/Essential-Mathematics-Quantum-Computing-complexities-eboo
 https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/dp/B07TWTC739/ref=sr_1_5?crid=1EJCPO7C8HDZA&keywords=quantum+computers&qid=1665844313&qu=eyJxc2MiOiI0LjU1IiwicXNhIjoiMy43MSIsInFzcCI6IjMuNDMifQ%3D%3D&s=digital-text&sprefix=quantum+computers%2Cdigital-text%2C249&sr=1-5
 
 <br>
+
+<br>
+
+<hr>
+
+# [자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수]
+
+- 자석의 원리 아셨습니까? N극, S극의 근원은? 자석의 자기장 어떻게 나올까? [자석과 스핀트로닉스 1/3화, KAIST 김갑진 교수]
+  - https://youtu.be/FU29W6B1eeE?si=4aa0BN9_HRpbP8Ot
+  - 양자역학 탄생에 '스핀'이 있었다! '스핀'은 무엇이고 어떻게 등장했을까? [자석과 스핀트로닉스 2/3화, KAIST 김갑진 교수]
+    - https://youtu.be/1tsAW1f-heE?si=M7jtW_8l0LrChKvx
+  - 자석 이야기로 '상대성 이론'을 이해시켜드립니다. '상대성 이론'과 N극과 S극을 당기는 이유 [자석과 스핀트로닉스 3/3화, KAIST 김갑진 교수]
+    - https://youtu.be/lFIIoFb40TE?si=0Yv4ikVqNnN6Lne9
+  - 가장 강력한 자석을 만드는 과학적 방법?! [돌아온 자석과 스핀트로닉스 1/2화, KAIST 김갑진 교수]
+    - https://youtu.be/2Gfv3kxoGfg?si=XZA_wfuONxv11mEt
+  - 과연 스핀을 가진 전자의 흐름을 정의할 수 있을까?! [돌아온 자석과 스핀트로닉스 2/2화, KAIST 김갑진 교수]
+    - https://youtu.be/xEEUVxnVw7c?si=MTsTXKS3Ipl8qiX7 
+
+
+<hr>
