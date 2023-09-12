@@ -265,7 +265,7 @@ https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/
 
 <hr>
 
-# [자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수]
+# 자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학
 
 - 자석의 원리 아셨습니까? N극, S극의 근원은? 자석의 자기장 어떻게 나올까? [자석과 스핀트로닉스 1/3화, KAIST 김갑진 교수]
   - https://youtu.be/FU29W6B1eeE?si=4aa0BN9_HRpbP8Ot
