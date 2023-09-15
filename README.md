@@ -276,7 +276,9 @@ https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/
   - 가장 강력한 자석을 만드는 과학적 방법?! [돌아온 자석과 스핀트로닉스 1/2화, KAIST 김갑진 교수]
     - https://youtu.be/2Gfv3kxoGfg?si=XZA_wfuONxv11mEt
   - 과연 스핀을 가진 전자의 흐름을 정의할 수 있을까?! [돌아온 자석과 스핀트로닉스 2/2화, KAIST 김갑진 교수]
-    - https://youtu.be/xEEUVxnVw7c?si=MTsTXKS3Ipl8qiX7 
+    - https://youtu.be/xEEUVxnVw7c?si=MTsTXKS3Ipl8qiX7
+  - 1차원과 2차원, 경계 기준을 어떻게 발견했을까?! 김갑진 교수의 스핀트로닉스 연구와 비하인드 스토리! [자석과 스핀트로닉스 3편 2/2화, KAIST 김갑진 교수]
+    - https://youtu.be/JJHK-WYmeTU?si=gTuelJygjJpbQSaF
 
 
 <hr>
