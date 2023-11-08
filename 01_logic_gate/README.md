@@ -1,6 +1,14 @@
+# 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌
+
+https://economiceco.tistory.com/14012
+
+<hr>
+
 # 고전 컴퓨터에서 덧셈 로직으로 표현
 
 ![Screenshot 2023-11-08 at 8 49 32 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/64ed157a-b4bd-433c-8869-9a93d42fa70f)
+
+<hr>
 
 # 양자 컴퓨터 로직 게이트 예시 
 
