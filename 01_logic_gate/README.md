@@ -13,6 +13,13 @@
 
 ![quantum_superposition](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/fe4b79e9-f2e6-4de6-9917-03feee66355a)
 
+- 그림으로 양자 이해하기 
+
+![pic01](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/1b30816a-838e-4785-8a43-eedc2e430516)
+
+
+![qauntum](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/058f56ed-9203-4c68-8788-53d040c4687e)
+
 - 표준연이 만든 초전도체 기반 초대형 양자컴퓨터의 정체?! (한국표준과학연구원 최재혁 박사) | 안될과학 Unrealscience
 
 https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
