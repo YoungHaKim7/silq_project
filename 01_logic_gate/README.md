@@ -18,6 +18,8 @@
 \frac{1}{\sqrt{2}} |0⟩(|0⟩) + \frac{1}{\sqrt{2}} |0⟩(|1⟩) CNOT | 0>
 ```
 
+- ``` \frac{1}{\sqrt{2}} |0⟩(|0⟩) + \frac{1}{\sqrt{2}} |0⟩(|1⟩) CNOT | 0> ```
+
 https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
 
 https://quantumcomputing.meta.stackexchange.com/questions/49/tutorial-how-to-use-tex-mathjax-to-render-math-notation
