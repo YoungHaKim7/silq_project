@@ -1,3 +1,9 @@
+# Algorithm전부 정리 중 
+
+https://github.com/YoungHaKim7/Algorithm_Training
+
+<hr>
+
 # Quantum Programming 
 
 - Quantum Programming Part 1(설명 굿👍)
