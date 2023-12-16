@@ -79,13 +79,21 @@ Phase(S,P)=
  \end{bmatrix}
 ```
 ```math
-\frac{\pi}{8}=
+\frac{\pi}{8}(T)=
  \begin{bmatrix}
   1 & 0 \
   0 & e^\frac{\imath\pi}{4} \
  \end{bmatrix}
 ```
-
+```math
+Controlled Not(CNOT,CX)=
+ \begin{bmatrix}
+  1 & 0 & 0 & 0 \
+  0 & 1 & 0 & 0 \
+  0 & 0 & 0 & 1 \
+  0 & 0 & 1 & 0 \
+ \end{bmatrix}
+```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
 
