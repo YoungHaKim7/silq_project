@@ -43,10 +43,13 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 
 ![qauntum](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/058f56ed-9203-4c68-8788-53d040c4687e)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3coG-0hl3foXn3ZCU4KnBw.jpeg" />
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2Hkbm7QIyBQfc8vKX7S9vw.jpeg" />
+
+https://en.wikipedia.org/wiki/Quantum_logic_gate
 
 https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515bb7b58916
 
