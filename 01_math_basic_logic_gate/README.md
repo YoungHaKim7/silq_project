@@ -131,51 +131,48 @@ Toffoli(CCNOT,CCX,TOFF=
 ```
 
 ```
-```
 
-```math
+
 Pauli-X(X)=
  \begin{bmatrix}
   0 & 1 \
   1 & 0 \
  \end{bmatrix}
-```
-```math
+
 Pauli-Y(Y)=
  \begin{bmatrix}
   0 & -\imath \
   \imath & 0 \
  \end{bmatrix}
-```
-```math
+
 Pauli-Z(Z)=
  \begin{bmatrix}
   1 & 0 \
   0 & -1 \
  \end{bmatrix}
-```
-```math
+
+
 Hadamard(H)=
  \frac{1}{\sqrt{2}}\begin{bmatrix}
   1 & 1 \
   1 & -1 \
  \end{bmatrix}
-```
-```math
+
+
 Phase(S,P)=
  \begin{bmatrix}
   1 & 0 \
   0 & \imath \
  \end{bmatrix}
-```
-```math
+
+   ```math
 \frac{\pi}{8}(T)=
  \begin{bmatrix}
   1 & 0 \
   0 & e^\frac{\imath\pi}{4} \
  \end{bmatrix}
-```
-```math
+
+   ```math
 Controlled Not(CNOT,CX)=
  \begin{bmatrix}
   1 & 0 & 0 & 0 \
@@ -183,9 +180,9 @@ Controlled Not(CNOT,CX)=
   0 & 0 & 0 & 1 \
   0 & 0 & 1 & 0 \
  \end{bmatrix}
-```
 
-```math
+
+   ```math
 Controlled Z(CZ)=
  \begin{bmatrix}
   1 & 0 & 0 & 0 \
@@ -193,9 +190,9 @@ Controlled Z(CZ)=
   0 & 0 & 1 & 0 \
   0 & 0 & 0 & -1 \
  \end{bmatrix}
-```
 
-```math
+
+   ```math
 SWAP=
  \begin{bmatrix}
   1 & 0 & 0 & 0 \
@@ -203,10 +200,9 @@ SWAP=
   0 & 1 & 0 & 0 \
   0 & 0 & 0 & 1 \
  \end{bmatrix}
-```
 
-- 8차원??
-```math
+
+
 Toffoli(CCNOT,CCX,TOFF=
  \begin{bmatrix}
   1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \
@@ -218,8 +214,7 @@ Toffoli(CCNOT,CCX,TOFF=
   0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 \
   0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \
  \end{bmatrix}
-```
-```
+
 ```
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
