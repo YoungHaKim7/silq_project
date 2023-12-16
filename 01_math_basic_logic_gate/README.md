@@ -44,12 +44,11 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 ![qauntum](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/058f56ed-9203-4c68-8788-53d040c4687e)
 
 ```math
-Pauli-X(X)=[
+Pauli-X(X)=
  \begin{bmatrix}
   0 & 1 \
   1 & 0 \
  \end{bmatrix}
-]
 ```
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
