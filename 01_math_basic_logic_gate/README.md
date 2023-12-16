@@ -94,12 +94,45 @@ Controlled Not(CNOT,CX)=
   0 & 0 & 1 & 0 \
  \end{bmatrix}
 ```
+
+```math
+Controlled Z(CZ)=
+ \begin{bmatrix}
+  1 & 0 & 0 & 0 \
+  0 & 1 & 0 & 0 \
+  0 & 0 & 1 & 0 \
+  0 & 0 & 0 & -1 \
+ \end{bmatrix}
+```
+
+```math
+SWAP=
+ \begin{bmatrix}
+  1 & 0 & 0 & 0 \
+  0 & 0 & 1 & 0 \
+  0 & 1 & 0 & 0 \
+  0 & 0 & 0 & 1 \
+ \end{bmatrix}
+```
+
+- 8차원??
+```math
+Toffoli(CCNOT,CCX,TOFF=
+ \begin{bmatrix}
+  1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \
+  0 & 1 & 0 & 0 & 0 & 0 & 0 & 0 \
+  0 & 0 & 1 & 0 & 0 & 0 & 0 & 0 \
+  0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 \
+  0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 \
+  0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \
+  0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 \
+  0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \
+ \end{bmatrix}
+```
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
-
-
 https://en.wikibooks.org/wiki/LaTeX/Mathematics
-
 
 swift로 매트릭스 구현 https://github.com/hollance/Matrix/blob/master/README.markdown
 
