@@ -64,7 +64,13 @@ Pauli-Z(Z)=
   0 & -1 \
  \end{bmatrix}
 ```
-
+```math
+Hadamard(H)=
+ {1}{\sqrt{2}}\begin{bmatrix}
+  1 & 1 \
+  1 & -1 \
+ \end{bmatrix}
+```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
 
