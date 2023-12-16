@@ -2,6 +2,10 @@
 
 https://www.desmos.com/3d/f7561f1632?lang=ko
 
+<hr>
+
+# 그림으로 이해하기 quantum mechanics & he Schrödinger Equation
+
 - List of Available Demonstrations| Demonstration material for undergraduate quantum mechanics
   - https://dkirkby.github.io/quantum-demo/
 
@@ -10,6 +14,8 @@ https://www.desmos.com/3d/f7561f1632?lang=ko
 
 - 동영상으로 이해하기 Visualization of Quantum Physics (Quantum Mechanics)(2분 21초)
   - https://youtu.be/p7bzE1E5PMY
+
+<hr>
 
 <hr>
 
