@@ -45,12 +45,14 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
-$Pauli-X(X)=\[
+```math
+Pauli-X(X)=\[
  \begin{matrix}
-  0 & 1 \\\
-  1 & 0 \\\
+  0 & 1 \
+  1 & 0 \
  \end{matrix}
-\]$
+\]
+```
 
 https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
