@@ -49,6 +49,18 @@ Pauli-X(X)=
   0 & 1 \
   1 & 0 \
  \end{bmatrix}
+
+Pauli-Y(Y)=
+ \begin{bmatrix}
+  0 & -\iota \
+  \iota & 0 \
+ \end{bmatrix}
+
+Pauli-Z(Z)=
+ \begin{bmatrix}
+  1 & 0 \
+  0 & -1 \
+ \end{bmatrix}
 ```
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
