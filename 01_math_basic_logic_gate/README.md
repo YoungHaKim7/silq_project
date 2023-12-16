@@ -49,13 +49,15 @@ Pauli-X(X)=
   0 & 1 \
   1 & 0 \
  \end{bmatrix}
-
+```
+```math
 Pauli-Y(Y)=
  \begin{bmatrix}
   0 & -\iota \
   \iota & 0 \
  \end{bmatrix}
-
+```
+```math
 Pauli-Z(Z)=
  \begin{bmatrix}
   1 & 0 \
