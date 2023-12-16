@@ -5,6 +5,9 @@ https://www.desmos.com/3d/f7561f1632?lang=ko
 - List of Available Demonstrations| Demonstration material for undergraduate quantum mechanics
   - https://dkirkby.github.io/quantum-demo/
 
+- 1D로 보여주는 자료The Schrödinger Equation with a potential barrier in 1D
+  - https://github.com/rreusser/schrodinger-equation-1d-demo
+
 <hr>
 
 # 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌
