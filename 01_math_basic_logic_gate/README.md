@@ -47,6 +47,11 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 - Quantum Computing
   - https://en.wikipedia.org/wiki/Quantum_computing
 
+- Pauli_matrices
+  - https://en.wikipedia.org/wiki/Pauli_matrices
+
+<hr>
+
 - 표준연이 만든 초전도체 기반 초대형 양자컴퓨터의 정체?! (한국표준과학연구원 최재혁 박사) | 안될과학 Unrealscience
 
 https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
