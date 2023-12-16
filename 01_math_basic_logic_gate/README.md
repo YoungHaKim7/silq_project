@@ -47,8 +47,8 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 
 $Pauli-X(X)=\[
  \begin{matrix}
-  0 & 1 \\
-  1 & 0 \\
+  0 & 1 \\\
+  1 & 0 \\\
  \end{matrix}
 \]$
 
