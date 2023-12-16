@@ -46,7 +46,7 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3coG-0hl3foXn3ZCU4KnBw.jpeg" />
 
-<igm src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2Hkbm7QIyBQfc8vKX7S9vw.jpeg" />
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2Hkbm7QIyBQfc8vKX7S9vw.jpeg" />
 
 https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515bb7b58916
 
