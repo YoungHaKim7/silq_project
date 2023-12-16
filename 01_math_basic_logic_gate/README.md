@@ -53,8 +53,8 @@ Pauli-X(X)=
 ```math
 Pauli-Y(Y)=
  \begin{bmatrix}
-  0 & -\iota \
-  \iota & 0 \
+  0 & -\imath \
+  \imath & 0 \
  \end{bmatrix}
 ```
 ```math
