@@ -66,7 +66,7 @@ Pauli-Z(Z)=
 ```
 ```math
 Hadamard(H)=
- {1}{\sqrt{2}}\begin{bmatrix}
+ \frac{1}{\sqrt{2}}\begin{bmatrix}
   1 & 1 \
   1 & -1 \
  \end{bmatrix}
