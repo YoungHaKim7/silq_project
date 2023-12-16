@@ -45,6 +45,8 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
+$\matrix{a}$
+
 swift로 매트릭스 구현 https://github.com/hollance/Matrix/blob/master/README.markdown
 
 
