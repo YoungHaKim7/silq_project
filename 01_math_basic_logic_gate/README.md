@@ -129,6 +129,9 @@ Toffoli(CCNOT,CCX,TOFF=
   0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 \
  \end{bmatrix}
 ```
+- 출처 : https://en.wikipedia.org/wiki/Quantum_logic_gate
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/440px-Quantum_Logic_Gates.png" />
 
 ```
 
