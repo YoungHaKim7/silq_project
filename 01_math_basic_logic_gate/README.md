@@ -8,6 +8,9 @@ https://www.desmos.com/3d/f7561f1632?lang=ko
 - 1D로 보여주는 자료The Schrödinger Equation with a potential barrier in 1D
   - https://github.com/rreusser/schrodinger-equation-1d-demo
 
+- 동영상으로 이해하기 Visualization of Quantum Physics (Quantum Mechanics)(2분 21초)
+  - https://youtu.be/p7bzE1E5PMY
+
 <hr>
 
 # 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌
