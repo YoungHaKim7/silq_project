@@ -50,6 +50,9 @@ https://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operati
 - Pauli_matrices
   - https://en.wikipedia.org/wiki/Pauli_matrices
 
+- Entanglement Entropy in XYZ model
+  - https://www.ggi.infn.it/talkfiles/slides/talk681.pdf
+
 <hr>
 
 - 표준연이 만든 초전도체 기반 초대형 양자컴퓨터의 정체?! (한국표준과학연구원 최재혁 박사) | 안될과학 Unrealscience
