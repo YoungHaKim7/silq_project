@@ -1,6 +1,8 @@
-# 3d vector 예시
+# 3d vector 예시(demos)
 
 https://www.desmos.com/3d/f7561f1632?lang=ko
+
+<hr>
 
 # 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌
 
