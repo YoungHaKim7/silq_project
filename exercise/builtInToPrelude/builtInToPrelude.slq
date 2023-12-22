@@ -1,0 +1,7 @@
+def main() {
+    // x := H(false) as int[32];
+    y := H(false);
+    z := (0: int[32]) + y;
+    
+    return (y, z);
+}

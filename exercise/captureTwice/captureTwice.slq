@@ -1,0 +1,11 @@
+def main() {
+    x := 2;
+    
+    def foo() {
+        y := x;
+        z := x;
+        
+        return (y, 2);
+    }
+    assert (foo() == (2, 2));
+}

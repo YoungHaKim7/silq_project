@@ -1,0 +1,5 @@
+def main() {
+    x := 5: uint[4];
+    
+    return (x[3], x[2], x[1], x[0]);
+}
