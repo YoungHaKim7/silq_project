@@ -13,7 +13,7 @@ https://github.com/YoungHaKim7/Algorithm_Training
 - 파동방정식(이것을 영어로는 Schrödinger Equation 혹은 Eigenvalue Equation이라고 한다)이라 하고 슈뤠딩거 가 처음으로 유도.
 ## 파동방정식의 기본형은 <strong><em>공간에 대한 두번 미분과 시간에 대한 두번 미분이 어떤 상수에 의해 비례하는 값을 형태</strong></em>를 보인다.
 
-## $\nabla^2\psi=\frac{1}{\nu^2}\frac{\partial^2 \psi}{\partial t^2}$
+# $\nabla^2\psi=\frac{1}{\nu^2}\frac{\partial^2 \psi}{\partial t^2}$
 
 - $∇^2$는 라플라시안Laplacian이라고 불리고, 공간 변수가 3개 있기 때문에 다음과 같이 정의된다
   - https://horizon.kias.re.kr/6063/
@@ -32,12 +32,12 @@ https://github.com/YoungHaKim7/Algorithm_Training
 - TeX_및_LaTeX_수식_문법 http://tomoyo.ivyro.net/123/wiki.php/TeX_%EB%B0%8F_LaTeX_%EC%88%98%EC%8B%9D_%EB%AC%B8%EB%B2%95
 - **Schrödinger equation**
 
-## $$i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$$
+# $$i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$$
 
 
 - 동영상에 나오는 공식
 
-## $$i \hbar \frac{\partial}{\partial t}\Psi = -{\hbar^2 \over2m}\Delta\Psi$$
+# $$i \hbar \frac{\partial}{\partial t}\Psi = -{\hbar^2 \over2m}\Delta\Psi$$
 
 
 https://www.siue.edu/~mnorton/quantum.pdf
