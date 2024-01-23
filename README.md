@@ -9,6 +9,18 @@ https://github.com/YoungHaKim7/Algorithm_Training
 - Quantum Programming Part 1(설명 굿👍)
   - https://youtu.be/2Eswqed8agg
 
+# 파동방정식의 기본형
+- 파동방정식(이것을 영어로는 Schrödinger Equation 혹은 Eigenvalue Equation이라고 한다)이라 하고 슈뤠딩거 가 처음으로 유도.
+- 파동방정식의 기본형은 공간에 대한 두번 미분과 시간에 대한 두번 미분이 어떤 상수에 의해 비례하는 값을 형태를 보인다.
+```math
+
+$i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$
+```
+
+- https://blog.naver.com/chg0118/70046766108
+
+- https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%8F%99_%EB%B0%A9%EC%A0%95%EC%8B%9D
+
 # Visualization of Quantum Physics (Quantum Mechanics)
 
 - 2분 21초 https://youtu.be/p7bzE1E5PMY
