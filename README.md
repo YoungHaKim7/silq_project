@@ -15,6 +15,9 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 ## $\nabla^2\Psi=\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)$
 
+- $∇^2$는 라플라시안Laplacian이라고 불리고, 공간 변수가 3개 있기 때문에 다음과 같이 정의된다
+  - https://horizon.kias.re.kr/6063/
+
 - LaTex그리스 문자 참고 https://jjycjnmath.tistory.com/117
 
 - https://blog.naver.com/chg0118/70046766108
