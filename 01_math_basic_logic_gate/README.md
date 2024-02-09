@@ -1,3 +1,6 @@
+# 설 특집 풀버전)7hr시간 풀버젼) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수]
+- https://youtu.be/q4NEhgLC8lA?si=Ai8bi1GF7haXcST_
+
 # 3d vector 예시(demos)
 
 https://www.desmos.com/3d/f7561f1632?lang=ko
