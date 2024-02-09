@@ -4,6 +4,10 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 <hr>
 
+# BCS이론(BCS theory)
+- 절대영도에 가까운 온도에서 양자단위의 상변화로 인해 전자가 쿠퍼쌍을 이루면서 전기적 중성이 되어 저항이 0가 된다는 이론
+  - 출처 https://youtu.be/j-KktXbOpik?si=opB-IFnnTvL0JIn8
+
 # Quantum Programming 
 
 - Quantum Programming Part 1(설명 굿👍)
