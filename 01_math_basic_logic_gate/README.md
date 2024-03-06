@@ -1,3 +1,8 @@
+# How To Code A Quantum Computer
+- https://youtu.be/JOJ5zihcd6Q?si=EblG2m5_3WWZ-HBZ
+
+<hr>
+
 # 설 특집 풀버전)7hr시간 풀버젼) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수]
 - https://youtu.be/q4NEhgLC8lA?si=Ai8bi1GF7haXcST_
 
