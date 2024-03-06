@@ -1,4 +1,4 @@
-# How To Code A Quantum Computer
+# How To Code A Quantum Computer | Lukas's lab
 - https://youtu.be/JOJ5zihcd6Q?si=EblG2m5_3WWZ-HBZ
 
 <hr>
