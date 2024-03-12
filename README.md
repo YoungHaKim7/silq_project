@@ -4,6 +4,12 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 <hr>
 
+# [4K] 양자역학,,,왜 알아야 할까? 김상욱 교수가 설명해 드림 (ft. 이성민) | KBS 다큐 인사이트 - 사이언스 워크 1부 양자역학 - 생명에서 우주까지 211202
+
+https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
+
+<hr>
+
 # BCS이론(BCS theory)
 - 절대영도에 가까운 온도에서 양자단위의 상변화로 인해 전자가 쿠퍼쌍을 이루면서 전기적 중성이 되어 저항이 0가 된다는 이론
   - 출처 https://youtu.be/j-KktXbOpik?si=opB-IFnnTvL0JIn8
