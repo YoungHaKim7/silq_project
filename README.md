@@ -8,6 +8,9 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
 
+- 스위스 연구진, 양자 정보 25km 순간이동 실험 성공 입력 2014. 9. 22. 15:04수정 2014. 9. 22. 15:04
+  - https://v.daum.net/v/20140922150408539
+
 <hr>
 
 # BCS이론(BCS theory)
