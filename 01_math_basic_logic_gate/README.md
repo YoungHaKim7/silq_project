@@ -265,7 +265,7 @@ https://en.wikipedia.org/wiki/Quantum_logic_gate
 https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515bb7b58916
 
 #  입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown
-
+- 출처 : https://youtu.be/d4EgbgTm0Bg?si=8SNBjnyLMj5Dki_5(3분10초에 나옴)
 ![Screenshot from 2024-05-06 20-39-55](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0bb8877d-4ce9-4d56-a638-657619a0d55e)
 
 <hr>
