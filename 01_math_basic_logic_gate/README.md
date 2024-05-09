@@ -286,3 +286,8 @@ https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515b
 - 표준연이 만든 초전도체 기반 초대형 양자컴퓨터의 정체?! (한국표준과학연구원 최재혁 박사) | 안될과학 Unrealscience
 
 https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
+
+<hr>
+
+# 빛의 기원으로부터 이발소 효과 설명 | 광학 퍼즐 2 | 3Blue1Brown
+- https://youtu.be/aXRTczANuIs?si=WNLkievV3kyMkNAM
