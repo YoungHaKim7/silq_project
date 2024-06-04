@@ -1,3 +1,6 @@
+# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org
+- https://youtu.be/tsbCSkvHhMo?si=vYzKTd6fixess22t
+
 # How To Code A Quantum Computer | Lukas's lab
 - https://youtu.be/JOJ5zihcd6Q?si=EblG2m5_3WWZ-HBZ
 
