@@ -105,6 +105,14 @@
 07:15:11 양자 CNOT 게이트
 ```
 
+<hr>
+
+# 양자역학의 꽃 파인만 다이어그램_과학_12_석군 | 석군 seokkun
+
+- https://youtu.be/GtPfqm8H1YA?si=gqyV49r7EYKTT8oC
+
+<hr>
+
 # 3d vector 예시(demos)
 
 https://www.desmos.com/3d/f7561f1632?lang=ko
