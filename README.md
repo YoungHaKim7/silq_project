@@ -22,6 +22,9 @@ https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
 # Quantum Physics Full Course | Quantum Mechanics Course | Academic Lesson
 - https://youtu.be/hyctIDPRSqY?si=KTPLMdwTDZ9fdZNx
 
+# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org
+- https://youtu.be/tsbCSkvHhMo?si=-iA-AoKAzuF7F6ou
+
 <hr>
 
 # BCS이론(BCS theory)
