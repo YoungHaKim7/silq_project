@@ -398,3 +398,8 @@ https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
 
 # 빛의 기원으로부터 이발소 효과 설명 | 광학 퍼즐 2 | 3Blue1Brown
 - https://youtu.be/aXRTczANuIs?si=WNLkievV3kyMkNAM
+
+<hr>
+
+# 양자 중력 이론에 대해
+- https://youtu.be/yfzosycRoe4?si=_zWZAsl-q5lga0c7
