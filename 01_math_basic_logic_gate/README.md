@@ -2,6 +2,7 @@
 
 - 완전 양자이론 기초
   - [이게 최고!! 빛의-기원으로부터-이발소-효과-설명--광학-퍼즐-2--3blue1brown](#빛의-기원으로부터-이발소-효과-설명--광학-퍼즐-2--3blue1brown)
+  - [그림으로 Spin이해하기 최고](#what-is-spin-a-geometric-explanation--scienceclic-english)
   - [입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown](#입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown)
 
 
