@@ -449,6 +449,9 @@ https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
 # 빛의 기원으로부터 이발소 효과 설명 | 광학 퍼즐 2 | 3Blue1Brown[|🔝|](#link)
 - https://youtu.be/aXRTczANuIs?si=WNLkievV3kyMkNAM
 
+# What is Spin? A Geometric explanation | ScienceClic English[|🔝|](#link)
+- https://youtu.be/pYeRS5a3HbE?si=gNi-W6E3ZNW3VUrK
+
 <hr>
 
 # 양자 중력 이론에 대해[|🔝|](#link)
