@@ -4,6 +4,10 @@
 # How To Code A Quantum Computer | Lukas's lab
 - https://youtu.be/JOJ5zihcd6Q?si=EblG2m5_3WWZ-HBZ
 
+# Quantum Explained | Massachusetts Institute of Technology (MIT)
+- https://youtu.be/jk0jWzlvA5w?si=8IgScOXE7TRDl0xg
+
+
 <hr>
 
 # 설 특집 풀버전)7hr시간 풀버젼) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수]
