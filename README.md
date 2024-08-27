@@ -1,3 +1,9 @@
+# link
+
+- [그림으로 이해하는 슈뢰딩거 방정식](#visualization-of-quantum-physics-quantum-mechanics)
+
+<hr>
+
 # Algorithm전부 정리 중 
 
 https://github.com/YoungHaKim7/Algorithm_Training
