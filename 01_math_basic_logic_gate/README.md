@@ -1,16 +1,25 @@
-# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org
+# link
+
+
+<hr>
+
+# 양자역학 기초 모음(외국 자료)[|🔝|](#link)
+
+# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org[|🔝|](#link)
 - https://youtu.be/tsbCSkvHhMo?si=vYzKTd6fixess22t
 
-# How To Code A Quantum Computer | Lukas's lab
+# How To Code A Quantum Computer | Lukas's lab[|🔝|](#link)
 - https://youtu.be/JOJ5zihcd6Q?si=EblG2m5_3WWZ-HBZ
 
-# Quantum Explained | Massachusetts Institute of Technology (MIT)
+# Quantum Explained | Massachusetts Institute of Technology (MIT)[|🔝|](#link)
 - https://youtu.be/jk0jWzlvA5w?si=8IgScOXE7TRDl0xg
 
 
 <hr>
 
-# 설 특집 풀버전)7hr시간 풀버젼) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수]
+# 기초 국내 자료[|🔝|](#link)
+
+# 설 특집 풀버전)7hr시간 풀버젼) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수][|🔝|](#link)
 - https://youtu.be/q4NEhgLC8lA?si=Ai8bi1GF7haXcST_
 
 ```
@@ -117,13 +126,13 @@
 
 <hr>
 
-# 3d vector 예시(demos)
+# 3d vector 예시(demos)[|🔝|](#link)
 
 https://www.desmos.com/3d/f7561f1632?lang=ko
 
 <hr>
 
-# 그림으로 이해하기 quantum mechanics & he Schrödinger Equation
+# 그림으로 이해하기 quantum mechanics & he Schrödinger Equation[|🔝|](#link)
 
 - List of Available Demonstrations| Demonstration material for undergraduate quantum mechanics
   - https://dkirkby.github.io/quantum-demo/
@@ -138,19 +147,19 @@ https://www.desmos.com/3d/f7561f1632?lang=ko
 
 <hr>
 
-# 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌
+# 아다마르 게이트(H)Hadamard gate중첩상태로 만들어줌[|🔝|](#link)
 
 https://economiceco.tistory.com/14012
 
 <hr>
 
-# 고전 컴퓨터에서 덧셈 로직으로 표현
+# 고전 컴퓨터에서 덧셈 로직으로 표현[|🔝|](#link)
 
 ![Screenshot 2023-11-08 at 8 49 32 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/64ed157a-b4bd-433c-8869-9a93d42fa70f)
 
 <hr>
 
-# 양자 컴퓨터 로직 게이트 예시 
+# 양자 컴퓨터 로직 게이트 예시[|🔝|](#link)
 
 ![quantum](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/59d6a894-e21d-4b3a-8d3f-05d2deb9ff89)
 
@@ -375,7 +384,7 @@ https://en.wikipedia.org/wiki/Quantum_logic_gate
 
 https://medium.com/quantum-untangled/visualizing-quantum-logic-gates-part-1-515bb7b58916
 
-#  입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown
+#  입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown[|🔝|](#link)
 - 출처 : (3분10초에 나옴)
   - https://youtu.be/d4EgbgTm0Bg?si=8SNBjnyLMj5Dki_5
 ![Screenshot from 2024-05-06 20-39-55](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0bb8877d-4ce9-4d56-a638-657619a0d55e)
@@ -400,10 +409,10 @@ https://youtu.be/WDFS6g7F8Rk?si=7RA3LXqiH4-0SkH2
 
 <hr>
 
-# 빛의 기원으로부터 이발소 효과 설명 | 광학 퍼즐 2 | 3Blue1Brown
+# 빛의 기원으로부터 이발소 효과 설명 | 광학 퍼즐 2 | 3Blue1Brown[|🔝|](#link)
 - https://youtu.be/aXRTczANuIs?si=WNLkievV3kyMkNAM
 
 <hr>
 
-# 양자 중력 이론에 대해
+# 양자 중력 이론에 대해[|🔝|](#link)
 - https://youtu.be/yfzosycRoe4?si=_zWZAsl-q5lga0c7
