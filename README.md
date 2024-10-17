@@ -1,6 +1,7 @@
 # link
 
 - [그림으로 이해하는 슈뢰딩거 방정식](#visualization-of-quantum-physics-quantum-mechanics)
+- [220415역사까지 굿(영어인게 단점..)What is the Schrödinger Equation? A basic introduction to Quantum Mechanics | Physics Explained](https://youtu.be/2WPA1L9uJqo?si=PrE4MEIkWEegyQax)
 
 <hr>
 
