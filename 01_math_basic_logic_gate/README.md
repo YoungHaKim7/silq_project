@@ -14,7 +14,7 @@
 - 슈뢰딩거 방정식 
 
   - [그림으로-이해하기-quantum-mechanics--he-schrödinger-equation](#그림으로-이해하기-quantum-mechanics--he-schrödinger-equation)
-    - [역사와 공식 같이 설명 굿..What is the i really doing in Schrödinger's equation? | Welch Labs](https://youtu.be/uVKMY-WTrVo?si=cQdMibvKU89CXfvb)
+    - [(241123)역사와 공식 같이 설명 굿..What is the i really doing in Schrödinger's equation? | Welch Labs](https://youtu.be/uVKMY-WTrVo?si=cQdMibvKU89CXfvb)
 
 - 양자코딩 알고리즘
   - [(아다마르-게이트hhadamard-gate중첩상태로-만들어줌](#아다마르-게이트hhadamard-gate중첩상태로-만들어줌)
