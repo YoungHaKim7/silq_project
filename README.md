@@ -25,6 +25,14 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 <hr />
 
+# microsoft/qsharp
+Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
+- https://github.com/microsoft/qsharp
+
+microsoft.github.io/qsharp/
+
+<hr />
+
 # [4K] 양자역학,,,왜 알아야 할까? 김상욱 교수가 설명해 드림 (ft. 이성민) | KBS 다큐 인사이트 - 사이언스 워크 1부 양자역학 - 생명에서 우주까지 211202
 
 https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
