@@ -7,7 +7,7 @@
 <hr />
 
 - VSCode
-  - [(extension)Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
+  - [(extension)(Q# qs)Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
 
 <hr>
 
