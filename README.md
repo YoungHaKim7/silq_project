@@ -4,6 +4,11 @@
 - [220415역사까지 굿(영어인게 단점..)What is the Schrödinger Equation? A basic introduction to Quantum Mechanics | Physics Explained](https://youtu.be/2WPA1L9uJqo?si=PrE4MEIkWEegyQax)
 - [(250112) 빛을 숫자로 나타낼 수 있다는 사실 알고 계셨나요? | 과학쿠키 [Science Cookie]](https://youtu.be/CYnQoIPGHxI?si=avOd0U7uJG9kLAaB)
 
+<hr />
+
+- VSCode
+  - [(extension)Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
+
 <hr>
 
 # Algorithm전부 정리 중 
