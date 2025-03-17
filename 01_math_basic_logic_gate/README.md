@@ -5,6 +5,8 @@
   - [그림으로 Spin이해하기 최고](#what-is-spin-a-geometric-explanation--scienceclic-english)
   - [입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown](#입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown)
 
+- 양자 게이트 기초
+  - [(250315)양자 알고리듬 첫걸음: 양자 게이트 | Information and Intelligence](https://youtu.be/Efxc1xKa7kg?si=bMtqG4zEhh-4FKy1)
 
 <hr>
 
