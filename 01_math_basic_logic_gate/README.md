@@ -11,6 +11,7 @@
 <hr>
 
 - 그림으로 이해하기 양자 역학
+  - [(외부영상) 250422_Quantum Computers Explained Visually | Lukas's Lab](https://youtu.be/Kv8N9alyYNc?si=x0Sxf0E13zpWCMCL) 
   - [그림으로 이해하는 양자 역학_고전-컴퓨터에서-덧셈-로직으로-표현](#고전-컴퓨터에서-덧셈-로직으로-표현)
 
 - 슈뢰딩거 방정식 
