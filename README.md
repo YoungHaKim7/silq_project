@@ -1,8 +1,11 @@
 # link
 
 - [그림으로 이해하는 슈뢰딩거 방정식](#visualization-of-quantum-physics-quantum-mechanics)
+  - [슈뢰딩거 방정식을 60초 만에 설명](#슈뢰딩거-방정식을-60초-만에-설명)
 - [220415역사까지 굿(영어인게 단점..)What is the Schrödinger Equation? A basic introduction to Quantum Mechanics | Physics Explained](https://youtu.be/2WPA1L9uJqo?si=PrE4MEIkWEegyQax)
 - [(250112) 빛을 숫자로 나타낼 수 있다는 사실 알고 계셨나요? | 과학쿠키 [Science Cookie]](https://youtu.be/CYnQoIPGHxI?si=avOd0U7uJG9kLAaB)
+
+- [자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학]()
 
 <hr />
 
@@ -11,15 +14,15 @@
 
 <hr>
 
-# Algorithm전부 정리 중 
+# Algorithm전부 정리 중[|🔝|](#link)
 
 https://github.com/YoungHaKim7/Algorithm_Training
 
 <hr>
 
-# 양자 컴퓨터 관련 최신 뉴스
+# 양자 컴퓨터 관련 최신 뉴스[|🔝|](#link)
 
-# 양자 컴퓨터 비교 잘 됨(250221)
+# 양자 컴퓨터 비교 잘 됨(250221)[|🔝|](#link)
 - 20년 걸린다는 젠슨 황 틀렸다?... 작동방식 경쟁에 상용화 가속 붙는 양자컴퓨터
   - 입력 2025.02.20 18:36 | 수정 2025.02.21 09:56 | 17면 |이재명 기자
 -  주류였던 초전도·이온트랩과 달리
@@ -30,7 +33,7 @@ https://github.com/YoungHaKim7/Algorithm_Training
 
 <hr />
 
-# microsoft/qsharp
+# microsoft/qsharp[|🔝|](#link)
 Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 - https://github.com/microsoft/qsharp
 
@@ -38,7 +41,7 @@ microsoft.github.io/qsharp/
 
 <hr />
 
-# [4K] 양자역학,,,왜 알아야 할까? 김상욱 교수가 설명해 드림 (ft. 이성민) | KBS 다큐 인사이트 - 사이언스 워크 1부 양자역학 - 생명에서 우주까지 211202
+# [4K] 양자역학,,,왜 알아야 할까? 김상욱 교수가 설명해 드림 (ft. 이성민) | KBS 다큐 인사이트 - 사이언스 워크 1부 양자역학 - 생명에서 우주까지 211202[|🔝|](#link)
 
 https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
 
@@ -53,24 +56,24 @@ https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
 
 <hr>
 
-# Quantum Physics Full Course | Quantum Mechanics Course | Academic Lesson
+# Quantum Physics Full Course | Quantum Mechanics Course | Academic Lesson[|🔝|](#link)
 - https://youtu.be/hyctIDPRSqY?si=KTPLMdwTDZ9fdZNx
 
-# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org
+# Quantum Computing Course – Math and Theory for Beginners | freeCodeCamp.org[|🔝|](#link)
 - https://youtu.be/tsbCSkvHhMo?si=-iA-AoKAzuF7F6ou
 
 <hr>
 
-# BCS이론(BCS theory)
+# BCS이론(BCS theory)[|🔝|](#link)
 - 절대영도에 가까운 온도에서 양자단위의 상변화로 인해 전자가 쿠퍼쌍을 이루면서 전기적 중성이 되어 저항이 0가 된다는 이론
   - 출처 https://youtu.be/j-KktXbOpik?si=opB-IFnnTvL0JIn8
 
-# Quantum Programming 
+# Quantum Programming[|🔝|](#link)
 
 - Quantum Programming Part 1(설명 굿👍)
   - https://youtu.be/2Eswqed8agg
 
-# 파동방정식의 기본형
+# 파동방정식의 기본형[|🔝|](#link)
 - 파동방정식(이것을 영어로는 Schrödinger Equation 혹은 Eigenvalue Equation이라고 한다)이라 하고 슈뤠딩거 가 처음으로 유도.
 ## 파동방정식의 기본형은 <strong><em>공간에 대한 두번 미분과 시간에 대한 두번 미분이 어떤 상수에 의해 비례하는 값을 형태</strong></em>를 보인다.
 
@@ -85,7 +88,7 @@ https://youtu.be/RpRQC2YxfBI?si=-UcpTExeTn_7UKd8
 
 - https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%8F%99_%EB%B0%A9%EC%A0%95%EC%8B%9D
 
-# Visualization of Quantum Physics (Quantum Mechanics)
+# Visualization of Quantum Physics (Quantum Mechanics)[|🔝|](#link)
 
 - 2분 21초 https://youtu.be/p7bzE1E5PMY
 - 슈뢰딩거 방정식(영어: Schrödinger equation) 그림으로 이해하기
@@ -112,18 +115,18 @@ https://www.siue.edu/~mnorton/quantum.pdf
  
     - https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0_%EB%B0%A9%EC%A0%95%EC%8B%9D
 
-# 슈뢰딩거 방정식을 60초 만에 설명
+# 슈뢰딩거 방정식을 60초 만에 설명[|🔝|](#link)
 - Domain of Science
   - https://youtu.be/AR23uxZruhE?si=ArLVAkWgXt8SP1rc
 
 <hr>
 
-# 마크 다운에 수학 공식 넣는 방법
+# 마크 다운에 수학 공식 넣는 방법[|🔝|](#link)
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 
-# 수학 공식 테스트 하기(live web - latex)
+# 수학 공식 테스트 하기(live web - latex)[|🔝|](#link)
 
 https://www.mathjax.org/
 
@@ -136,11 +139,11 @@ https://www.mathjax.org/
 
 <hr>
 
-# MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.
+# MicroSoft Q# 내가 정리한 silq와 문법과 코딩이 다르다.[|🔝|](#link)
 
 https://learn.microsoft.com/en-us/azure/quantum/
 
-# 내가 공부하려고 만든 영상
+# 내가 공부하려고 만든 영상[|🔝|](#link)
 
 한글양자코딩slq001*양자코딩*윈도우에서 리눅스 가상환경 설치 후 양자코딩준비하기 #quantum #slq #silq
 
@@ -148,31 +151,31 @@ https://youtu.be/klzS-ekfq0s
 
 <br>
 
-# Silq's language
+# Silq's language[|🔝|](#link)
 
 https://silq.ethz.ch/documentation
 
 <br>
 
-# Quantum slq file compile
+# Quantum slq file compile[|🔝|](#link)
 
 https://github.com/eth-sri/silq
 
 <br>
 
-# VSCode Insert Unicode(Extensions)
+# VSCode Insert Unicode(Extensions)[|🔝|](#link)
 
 https://marketplace.visualstudio.com/items?itemName=brunnerh.insert-unicode
 
 <br>
 
-# Unicode Search
+# Unicode Search[|🔝|](#link)
 
 http://xahlee.info/comp/unicode_index.html?q=%E2%84%95
 
 <br>
 
-# SILQ Unicode
+# SILQ Unicode[|🔝|](#link)
 
 <table border="1">
     <tr>
@@ -279,25 +282,25 @@ http://xahlee.info/comp/unicode_index.html?q=%E2%84%95
 
 <br>
 
-# silq*project_Emacs * unicode-input
+# silq*project_Emacs * unicode-input[|🔝|](#link)
 
 https://agda.readthedocs.io/en/latest/tools/emacs-mode.html#unicode-input
 
 <br>
 
-# 35 Quantum Computing Software Tools
+# 35 Quantum Computing Software Tools[|🔝|](#link)
 
 https://thequantuminsider.com/2022/05/27/quantum-computing-tools/
 
 <br>
 
-# QuantumComputingReport/ Tools
+# QuantumComputingReport/ Tools[|🔝|](#link)
 
 https://quantumcomputingreport.com/tools/
 
 <br>
 
-# 빛과 썬글라스로 양자역학 이해하기\_실제test하면서ㅎㅎ❤️Bell's Theorem: The Quantum Venn Diagram Paradox
+# 빛과 썬글라스로 양자역학 이해하기\_실제test하면서ㅎㅎ❤️Bell's Theorem: The Quantum Venn Diagram Paradox[|🔝|](#link)
 
 - Bell's Theorem: The Quantum Venn Diagram Paradox
 
@@ -315,14 +318,14 @@ https://quantumcomputingreport.com/tools/
 
 이 책에 silq 짠 코드가 친절하게 나온게 이거 먼저 구매 강추!!
 
-# Quantum Computing with Silq Programming: Get up and running with quantum computing with the simplicity of this new high-level programming language 1st Edition, Kindle Edition
+# Quantum Computing with Silq Programming: Get up and running with quantum computing with the simplicity of this new high-level programming language 1st Edition, Kindle Edition[|🔝|](#link)
 
 https://www.amazon.com/dp/B091D34X6K/ref=cm_sw_r_awdo_DY25YGP5GXR5C71QKK6E
 
 <br>
 
 # Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities 1st Edition, Kindle Edition
-
+[|🔝|](#link)
 https://www.amazon.com/Essential-Mathematics-Quantum-Computing-complexities-ebook/dp/B09TRQPYRS/ref=d_pd_sim_sccl_1_1/143-0855274-0933658?pd_rd_w=cB006&content-id=amzn1.sym.9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_p=9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_r=5M2BMV7J6P49HFMFC7P2&pd_rd_wg=LEpIy&pd_rd_r=8e71abf5-1664-4c8c-a82b-733113ceef0f&pd_rd_i=B09TRQPYRS&psc=1
 
 <table border="1">
@@ -341,7 +344,7 @@ https://www.amazon.com/Essential-Mathematics-Quantum-Computing-complexities-eboo
 <br>
 <br>
 
-# Programming Quantum Computers: Essential Algorithms and Code Samples 1st Edition, Kindle Edition
+# Programming Quantum Computers: Essential Algorithms and Code Samples 1st Edition, Kindle Edition[|🔝|](#link)
 
 https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/dp/B07TWTC739/ref=sr_1_5?crid=1EJCPO7C8HDZA&keywords=quantum+computers&qid=1665844313&qu=eyJxc2MiOiI0LjU1IiwicXNhIjoiMy43MSIsInFzcCI6IjMuNDMifQ%3D%3D&s=digital-text&sprefix=quantum+computers%2Cdigital-text%2C249&sr=1-5
 
@@ -351,7 +354,7 @@ https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/
 
 <hr>
 
-# 자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학
+# 자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학[|🔝|](#link)
 
 - 자석의 원리 아셨습니까? N극, S극의 근원은? 자석의 자기장 어떻게 나올까? [자석과 스핀트로닉스 1/3화, KAIST 김갑진 교수]
   - https://youtu.be/FU29W6B1eeE?si=4aa0BN9_HRpbP8Ot
