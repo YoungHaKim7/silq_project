@@ -5,7 +5,13 @@
 - [220415역사까지 굿(영어인게 단점..)What is the Schrödinger Equation? A basic introduction to Quantum Mechanics | Physics Explained](https://youtu.be/2WPA1L9uJqo?si=PrE4MEIkWEegyQax)
 - [(250112) 빛을 숫자로 나타낼 수 있다는 사실 알고 계셨나요? | 과학쿠키 [Science Cookie]](https://youtu.be/CYnQoIPGHxI?si=avOd0U7uJG9kLAaB)
 
-- [자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학]()
+- 양자역학 기초 상식
+  - [자석과 스핀트로닉스 1~3화, KAIST 김갑진 교수 | 안될과학](#자석과-스핀트로닉스-13화-kaist-김갑진-교수--안될과학)
+  - [빛과 썬글라스로 양자역학 이해하기\_실제test하면서ㅎㅎ❤️Bell's Theorem: The Quantum Venn Diagram Paradox](#빛과-썬글라스로-양자역학-이해하기_실제test하면서ㅎㅎ%EF%B8%8Fbells-theorem-the-quantum-venn-diagram-paradox)
+
+<hr />
+
+- [양자 코딩에서 많이 쓰는 Unicode 정리](#silq-unicode)
 
 <hr />
 
