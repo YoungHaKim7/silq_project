@@ -112,6 +112,10 @@ https://www.siue.edu/~mnorton/quantum.pdf
  
     - https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0_%EB%B0%A9%EC%A0%95%EC%8B%9D
 
+# 슈뢰딩거 방정식을 60초 만에 설명
+- Domain of Science
+  - https://youtu.be/AR23uxZruhE?si=ArLVAkWgXt8SP1rc
+
 <hr>
 
 # 마크 다운에 수학 공식 넣는 방법
